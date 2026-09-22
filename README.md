@@ -55,6 +55,12 @@
 | **04** | `Marks` | `mark1`, `mark2`, `mark3` | `calculateSum()` |
 | **05** | `Time` | `hr`, `min`, `seconds` | `display()` |
 
+####  Execution Output Preview
+
+<div align="center">
+  <img src="lab_task_02_output.png" alt="Lab Task 02 Execution Output" width="90%" />
+</div>
+
 ---
 
 ###  Execution Guide
