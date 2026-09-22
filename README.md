@@ -42,6 +42,12 @@
 | **03** | `Car` | `brand`, `model`, `year`, `speed` | `accelerate()`, `brake()` |
 | **04** | `Rectangle` | `length`, `width` | `calculateArea()`, `calculatePerimeter()` |
 
+####  Execution Output Preview
+
+<div align="center">
+  <img src="lab_task_01_output.png" alt="Lab Task 01 Execution Output" width="90%" />
+</div>
+
 <br/>
 
 ####  Lab Task 02 (`Lab_Task_02.java`)
