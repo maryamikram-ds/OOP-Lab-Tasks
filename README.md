@@ -59,7 +59,7 @@
 
 ###  Execution Guide
 
-Standard Java compiler (`javac`) ke zariye terminal ya IDE (IntelliJ, Eclipse, NetBeans) mein run karein:
+Run using the standard Java compiler (`javac`) in your terminal or IDE (IntelliJ, Eclipse, NetBeans):
 
 ```bash
 # Compile and run Lab Task 1
